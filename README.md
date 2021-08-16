@@ -1,11 +1,9 @@
 ## Getting Started
 Go on your project folder
+- yarn install
+- yarn server
 
-
-$ yarn install 
-$ yarn server
-
-$ Go to http://localhost:8080/
+- Go to http://localhost:8080/
 
 
 
